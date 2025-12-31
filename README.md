@@ -10,7 +10,7 @@ conda install transformers
 
 ## Model downloading
 
-We use DeepSeek-AI's [DeepSeek-R1-Distill-Qwen-7/14/32B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) and [Qwen/Qwen2.5-7/14/32B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) as the main architecture.
+We use DeepSeek-AI's [DeepSeek-R1-Distill-Qwen-7/14/32B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) and Qwen's [Qwen/Qwen2.5-7/14/32B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) as the main architecture.
 
 Please also download the above models for experiments.
 
